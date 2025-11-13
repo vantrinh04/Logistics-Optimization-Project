@@ -83,3 +83,7 @@ Dựa trên các phát hiện, đề xuất các hành động sau:
 
 - Tối ưu hóa chi phí kế hoạch: Tập trung vào các lô hàng Air không khẩn cấp. Phòng Logistics phối hợp với Top 10 quốc gia (từ PT3) để rà soát quy trình lập kế hoạch và dự báo của họ nhằm cải thiện độ chính xác của dự báo để các quốc gia này có thể đặt hàng sớm hơn.
 - Thiết lập KPI mới: Đặt mục tiêu dịch chuyển (Modal Shift) 10% các lô hàng Air (không khẩn cấp) hiện tại sang Ocean hoặc Truck trong 6 tháng tới. Điều này sẽ giúp tiết kiệm chi phí vận tải đáng kể mà vẫn đảm bảo an toàn tồn kho cho bệnh nhân.
+
+Lưu ý: Dữ liệu thô (raw data) gốc từ Kaggle được đính kèm trong file Excel tại sheet Data Raw. Sheet này đã được ẩn (hidden) để tập trung vào phần phân tích và dashboard.
+
+Để xem, vui lòng mở file, chuột phải vào một sheet bất kỳ và chọn "Unhide...".
